@@ -3,7 +3,6 @@
 <!--
 **ZeynepNenseth/ZeynepNenseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m in my 3rd year of studies towards a Bachelor degree in computer engineering at OsloMet and currently working on my Bachelor thesis with my group.
 - 🌱 I’m currently learning Wized, Figma, Vue.js and refershing my JavaScript knowlegde.

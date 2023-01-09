@@ -2,11 +2,13 @@
 
 <!--
 **ZeynepNenseth/ZeynepNenseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m in my 3rd year of studies towards a Bachelor degree in computer engineering at OsloMet and currently working on my Bachelor thesis with my group.
+- 🌱 I’m currently learning Wized, Figma, Vue.js and refershing my JavaScript knowlegde.
+- ✨ I’m interested in many programming languages and technologies, and aim to be clean coder.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

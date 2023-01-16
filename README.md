@@ -5,7 +5,7 @@
 -->
 
 - 🐱‍💻 I’m in my 3rd year of studies towards a Bachelor degree in computer engineering at OsloMet and currently working on my Bachelor thesis with my group.
-- 🐱‍👤 I’m currently learning Wized, Figma, Vue.js and refreshing my JavaScript knowlegde.
+- 🐱‍👤 I’m currently learning Figma, Vue.js, Xano and refreshing my JavaScript knowlegde.
 - ☕ I like to code with Java.
 - 🐾 I’m trying to learn technologies and code in different programming languages, and aim to be clean coder.
 - 🧪🧬 I have a background in molecular biology and cancer research.
